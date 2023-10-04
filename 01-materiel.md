@@ -1,4 +1,4 @@
-# Descriptif de l'Environnement Matériel Actuel du CFA
+# Descriptif de l'environnement matériel actuel du CFA
 
 1. Baie HP C7000
     - Châssis: Baie HP BladeSystem c7000, qui fournit alimentation, refroidissement, et connectivité pour les lames.
